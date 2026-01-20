@@ -32,6 +32,10 @@ Before you begin, ensure you have the following installed:
 * **Git:** [Download here](https://git-scm.com/downloads)
 * **Docker Desktop:** [Download here](https://www.docker.com/products/docker-desktop/)
 
+**⚠️ Important:** You must have the **Docker Desktop app open and running** before executing any Docker commands in your terminal.
+
+Please note that Docker might need some time to build an image.
+
 ---
 
 ### Installation & Setup
@@ -62,3 +66,4 @@ Before you begin, ensure you have the following installed:
     docker stop telco-running
     docker rm telco-running
     ```
+6. **Close the Docker app**

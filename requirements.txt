@@ -1,0 +1,12 @@
+pydantic
+joblib
+# For backend orchestration
+fastapi
+uvicorn
+gradio
+xgboost
+
+# Python needs to know how to work with Sklearn pipeline
+scikit-learn
+# to convert JSON into df
+pandas
